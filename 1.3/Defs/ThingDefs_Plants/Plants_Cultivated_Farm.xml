@@ -839,7 +839,7 @@
 	<ThingDef ParentName="PlantBase">
 		<defName>VCE_Cucumber</defName>
 		<label>cucumber plant</label>
-		<description>A sprawling vine with large leaves and curling tendrils, triangular prickly hairy leaves and yellow flowers. Produces a fruit that is a long thin vegetable with hard green skin and wet transparent flesh. \n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; Cucumbers are only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Cucumbers grow quite fast, providing little yield but in a short period. They can ber eaten raw.</description>
+		<description>A sprawling vine with large leaves and curling tendrils, triangular prickly hairy leaves and yellow flowers. Produces a fruit that is a long thin vegetable with hard green skin and wet transparent flesh. \n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; Cucumbers are only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Cucumbers grow quite fast, providing little yield but in a short period. They can be eaten raw.</description>
 		<statBases>
 			<MaxHitPoints>50</MaxHitPoints>
 			<Nutrition>0.15</Nutrition>
