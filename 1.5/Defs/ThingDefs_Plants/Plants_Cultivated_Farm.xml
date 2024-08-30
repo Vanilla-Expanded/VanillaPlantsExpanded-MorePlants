@@ -180,7 +180,7 @@
 	<ThingDef ParentName="PlantBase">
 		<defName>VCE_SweetPotato</defName>
 		<label>sweet potato plant</label>
-		<description>A plant with large, starchy, sweet-tasting (tasting similar to pumpkin), tuberous roots that are used as a root vegetable. The sweet potato is distantly related to the common potato.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; Sweet potatoes show a marked preference for rocky soils, flourishing on them. Rich soils are actually detrimental to them. They do not tolerate frost, growing best at an average temperature of 24 °C, and receinving penalties under 20ºC.</description>
+		<description>A plant with large, starchy, sweet-tasting (tasting similar to pumpkin), tuberous roots that are used as a root vegetable. The sweet potato is distantly related to the common potato.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; Sweet potatoes show a marked preference for rocky soils, flourishing on them. Rich soils are actually detrimental to them. They do not tolerate frost, growing best at an average temperature of 24 °C, and receiving penalties under 20ºC.</description>
 		<thingClass>VanillaPlantsExpandedMorePlants.Plant_PrefersRockyAndNoFrost</thingClass>
 		<statBases>
 			<MaxHitPoints>55</MaxHitPoints>
