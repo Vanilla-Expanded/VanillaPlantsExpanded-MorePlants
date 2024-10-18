@@ -294,6 +294,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AI\FlowerGarden\WorkGiver_GrowerHarvestFlowerGarden.cs" />
+    <Compile Include="AI\FlowerGarden\WorkGiver_GrowerFlowerGarden.cs" />
+    <Compile Include="AI\FlowerGarden\WorkGiver_GrowerSowFlowerGarden.cs" />
     <Compile Include="AI\Sandy\WorkGiver_GrowerHarvestSandy.cs" />
     <Compile Include="AI\Sandy\WorkGiver_GrowerSandy.cs" />
     <Compile Include="AI\Sandy\WorkGiver_GrowerSowSandy.cs" />
@@ -302,6 +305,8 @@
     <Compile Include="DefOfs\InternalDefOf.cs" />
     <Compile Include="Defs\SandyGrowZoneTerrainsDef.cs" />
     <Compile Include="Defs\AquaticGrowZoneTerrainsDef.cs" />
+    <Compile Include="Designators\Designator_FlowerGardenGrowingZone_Expand.cs" />
+    <Compile Include="Designators\Designator_FlowerGardenGrowingZone.cs" />
     <Compile Include="Designators\Designator_SandyGrowingZone_Expand.cs" />
     <Compile Include="Designators\Designator_SandyGrowingZone.cs" />
     <Compile Include="Designators\Designator_AquaticGrowingZone.cs" />
@@ -328,6 +333,7 @@
     <Compile Include="AI\Aquatic\WorkGiver_GrowerAquatic.cs" />
     <Compile Include="AI\Aquatic\WorkGiver_GrowerHarvestAquatic.cs" />
     <Compile Include="AI\Aquatic\WorkGiver_GrowerSowAquatic.cs" />
+    <Compile Include="Zones\Zone_GrowingFlowerGarden.cs" />
     <Compile Include="Zones\Zone_GrowingSandy.cs" />
     <Compile Include="Zones\Zone_GrowingAquatic.cs" />
   </ItemGroup>

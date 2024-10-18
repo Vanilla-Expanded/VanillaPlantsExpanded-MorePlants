@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName = "Plant_Rose"]/plant/sowTags</xpath>
+		<value>
+			<li>VCE_FlowerGarden</li>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName = "Plant_Daylily"]/plant/sowTags</xpath>
+		<value>
+			<li>VCE_FlowerGarden</li>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName = "Plant_Dandelion"]/plant/sowTags</xpath>
+		<value>
+			<li>VCE_FlowerGarden</li>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationConditional">
+
+		<xpath>Defs/ThingDef[defName = "Plant_Astragalus"]/plant/sowTags</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "Plant_Astragalus"]/plant</xpath>
+			<value>
+				<sowTags>
+					<li>VCE_FlowerGarden</li>
+				</sowTags>
+			</value>
+		</nomatch>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "Plant_Astragalus"]/plant/sowTags</xpath>
+			<value>
+				<li>VCE_FlowerGarden</li>
+			</value>
+		</match>
+	</Operation>
+</Patch>

@@ -14,8 +14,10 @@ namespace VanillaPlantsExpandedMorePlants
 		public static ThingDef VCE_YellowBellPepper;
 		public static ThingDef VCE_PeanutSecondary;
 		public static ThingDef VCE_Peanut;
+		public static ThingDef Plant_Rose;
 
 
 
-	}
+
+    }
 }

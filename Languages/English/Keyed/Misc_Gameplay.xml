@@ -7,6 +7,9 @@
 	<VCE_SandyGrowingZone>Sand Growing Zone</VCE_SandyGrowingZone>
 	<VCE_SandyGrowingZoneDesc>Create a zone where your colonists will try to grow sandy terrain plants. Sand plants ignore terrain fertility but take a very long time to sow and harvest.</VCE_SandyGrowingZoneDesc>
 	
+	<VCE_FlowerGardenGrowingZone>Flower Garden Zone</VCE_FlowerGardenGrowingZone>
+	<VCE_FlowerGardenGrowingZoneDesc>Create a zone where your colonists will try to grow decorative flowers.</VCE_FlowerGardenGrowingZoneDesc>
+	
 	<VCE_NotInEquator>Not in equatorial region (in this planet, below {0} latitude). Growing normally.</VCE_NotInEquator>
 	<VCE_InEquator>In equatorial region, growing 30% faster.</VCE_InEquator>
 	

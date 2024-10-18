@@ -26,7 +26,10 @@ namespace VanillaPlantsExpandedMorePlants
             {
                 __result = plantDef.plant.sowTags.Contains("VCE_Sandy");
             }
-
+            if (obj is Zone_GrowingFlowerGarden)
+            {
+                __result = plantDef.plant.sowTags.Contains("VCE_FlowerGarden");
+            }
 
         }
 

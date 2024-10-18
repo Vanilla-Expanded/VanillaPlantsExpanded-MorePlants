@@ -14,3 +14,7 @@ E:\Steam\steamapps\common\RimWorld\Mods\VanillaPlantsExpanded-MorePlants\1.5\Ass
 E:\Steam\steamapps\common\RimWorld\Mods\VanillaPlantsExpanded-MorePlants\1.5\Source\VanillaPlantsExpandedMorePlants\VanillaPlantsExpandedMorePlants\obj\Debug\VanillaPlantsExpandedMorePlants.csproj.AssemblyReference.cache
 E:\Steam\steamapps\common\RimWorld\Mods\VanillaPlantsExpanded-MorePlants\1.5\Source\VanillaPlantsExpandedMorePlants\VanillaPlantsExpandedMorePlants\obj\Debug\VanillaPlantsExpandedMorePlants.csproj.CoreCompileInputs.cache
 E:\Steam\steamapps\common\RimWorld\Mods\VanillaPlantsExpanded-MorePlants\1.5\Source\VanillaPlantsExpandedMorePlants\VanillaPlantsExpandedMorePlants\obj\Debug\VanillaPlantsExpandedMorePlants.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VanillaPlantsExpanded-MorePlants\1.5\Assemblies\VanillaPlantsExpandedMorePlants.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VanillaPlantsExpanded-MorePlants\1.5\Source\VanillaPlantsExpandedMorePlants\VanillaPlantsExpandedMorePlants\obj\Debug\VanillaPlantsExpandedMorePlants.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VanillaPlantsExpanded-MorePlants\1.5\Source\VanillaPlantsExpandedMorePlants\VanillaPlantsExpandedMorePlants\obj\Debug\VanillaPlantsExpandedMorePlants.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VanillaPlantsExpanded-MorePlants\1.5\Source\VanillaPlantsExpandedMorePlants\VanillaPlantsExpandedMorePlants\obj\Debug\VanillaPlantsExpandedMorePlants.dll

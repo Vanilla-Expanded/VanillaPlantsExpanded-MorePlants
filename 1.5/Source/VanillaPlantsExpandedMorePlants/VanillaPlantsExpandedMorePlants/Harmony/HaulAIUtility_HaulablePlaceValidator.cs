@@ -17,7 +17,7 @@ namespace VanillaPlantsExpandedMorePlants
         [HarmonyPostfix]
         public static void MakeZonesNotHaulable(Thing haulable, Pawn worker, IntVec3 c,ref bool __result)
         {
-            if (haulable != null && haulable.def.BlocksPlanting() && (worker.Map.zoneManager.ZoneAt(c) is Zone_GrowingAquatic|| worker.Map.zoneManager.ZoneAt(c) is Zone_GrowingSandy))
+            if (haulable != null && haulable.def.BlocksPlanting() && (worker.Map.zoneManager.ZoneAt(c) is Zone_GrowingAquatic|| worker.Map.zoneManager.ZoneAt(c) is Zone_GrowingSandy || worker.Map.zoneManager.ZoneAt(c) is Zone_GrowingFlowerGarden))
             {
                 __result = false;
             }

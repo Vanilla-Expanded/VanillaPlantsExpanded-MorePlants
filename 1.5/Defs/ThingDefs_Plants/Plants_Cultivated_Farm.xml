@@ -97,9 +97,9 @@
 			</sowTags>
 			<topWindExposure>0.1</topWindExposure>
 			<growDays>4.2</growDays>
-			<visualSizeRange>0.3~0.8</visualSizeRange>
+			<visualSizeRange>0.3~0.6</visualSizeRange>
 			<wildOrder>2</wildOrder>
-			<maxMeshCount>4</maxMeshCount>
+			<maxMeshCount>9</maxMeshCount>
 			<purpose>Food</purpose>
 			<humanFoodPlant>true</humanFoodPlant>
 		</plant>
