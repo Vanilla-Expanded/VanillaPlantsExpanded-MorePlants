@@ -67,7 +67,7 @@
 			<sowTags>
 				<li>VCE_FlowerGarden</li>
 			</sowTags>
-			<harvestMinGrowth>1</harvestMinGrowth>
+			<harvestMinGrowth>0.99</harvestMinGrowth>
 			<growMinGlow>0.3</growMinGlow>
 			<topWindExposure>0.1</topWindExposure>
 			<growDays>1.5</growDays>
@@ -105,7 +105,7 @@
 			<sowTags>
 				<li>VCE_FlowerGarden</li>
 			</sowTags>
-			<harvestMinGrowth>1</harvestMinGrowth>
+			<harvestMinGrowth>0.99</harvestMinGrowth>
 			<growMinGlow>0.3</growMinGlow>
 			<topWindExposure>0.1</topWindExposure>
 			<growDays>1.5</growDays>
@@ -144,7 +144,7 @@
 			<sowTags>
 				<li>VCE_FlowerGarden</li>
 			</sowTags>
-			<harvestMinGrowth>1</harvestMinGrowth>
+			<harvestMinGrowth>0.99</harvestMinGrowth>
 			<growMinGlow>0.3</growMinGlow>
 			<topWindExposure>0.1</topWindExposure>
 			<growDays>1.5</growDays>
@@ -182,7 +182,7 @@
 			<sowTags>
 				<li>VCE_FlowerGarden</li>
 			</sowTags>
-			<harvestMinGrowth>1</harvestMinGrowth>
+			<harvestMinGrowth>0.99</harvestMinGrowth>
 			<growMinGlow>0.3</growMinGlow>
 			<topWindExposure>0.1</topWindExposure>
 			<growDays>1.5</growDays>
@@ -220,7 +220,7 @@
 			<sowTags>
 				<li>VCE_FlowerGarden</li>
 			</sowTags>
-			<harvestMinGrowth>1</harvestMinGrowth>
+			<harvestMinGrowth>0.99</harvestMinGrowth>
 			<growMinGlow>0.3</growMinGlow>
 			<topWindExposure>0.1</topWindExposure>
 			<growDays>1.5</growDays>
@@ -258,7 +258,7 @@
 			<sowTags>
 				<li>VCE_FlowerGarden</li>
 			</sowTags>
-			<harvestMinGrowth>1</harvestMinGrowth>
+			<harvestMinGrowth>0.99</harvestMinGrowth>
 			<growMinGlow>0.3</growMinGlow>
 			<topWindExposure>0.1</topWindExposure>
 			<growDays>1.5</growDays>
@@ -296,7 +296,7 @@
 			<sowTags>
 				<li>VCE_FlowerGarden</li>
 			</sowTags>
-			<harvestMinGrowth>1</harvestMinGrowth>
+			<harvestMinGrowth>0.99</harvestMinGrowth>
 			<growMinGlow>0.3</growMinGlow>
 			<topWindExposure>0.1</topWindExposure>
 			<growDays>1.5</growDays>
@@ -334,7 +334,7 @@
 			<sowTags>
 				<li>VCE_FlowerGarden</li>
 			</sowTags>
-			<harvestMinGrowth>1</harvestMinGrowth>
+			<harvestMinGrowth>0.99</harvestMinGrowth>
 			<growMinGlow>0.3</growMinGlow>
 			<topWindExposure>0.1</topWindExposure>
 			<growDays>1.5</growDays>
@@ -372,7 +372,7 @@
 			<sowTags>
 				<li>VCE_FlowerGarden</li>
 			</sowTags>
-			<harvestMinGrowth>1</harvestMinGrowth>
+			<harvestMinGrowth>0.99</harvestMinGrowth>
 			<growMinGlow>0.3</growMinGlow>
 			<topWindExposure>0.1</topWindExposure>
 			<growDays>1.5</growDays>
@@ -410,7 +410,7 @@
 			<sowTags>
 				<li>VCE_FlowerGarden</li>
 			</sowTags>
-			<harvestMinGrowth>1</harvestMinGrowth>
+			<harvestMinGrowth>0.99</harvestMinGrowth>
 			<growMinGlow>0.3</growMinGlow>
 			<topWindExposure>0.1</topWindExposure>
 			<growDays>1.5</growDays>
@@ -448,7 +448,7 @@
 			<sowTags>
 				<li>VCE_FlowerGarden</li>
 			</sowTags>
-			<harvestMinGrowth>1</harvestMinGrowth>
+			<harvestMinGrowth>0.99</harvestMinGrowth>
 			<growMinGlow>0.3</growMinGlow>
 			<topWindExposure>0.1</topWindExposure>
 			<growDays>1.5</growDays>
