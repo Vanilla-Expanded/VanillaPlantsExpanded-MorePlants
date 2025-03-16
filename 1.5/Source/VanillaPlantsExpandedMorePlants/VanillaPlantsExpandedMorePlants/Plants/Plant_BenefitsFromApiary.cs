@@ -30,7 +30,7 @@ namespace VanillaPlantsExpandedMorePlants
                 if (current.InBounds(this.Map))
                 {
                     Building getbeehouse = current.GetEdifice(this.Map);
-                    if ((getbeehouse != null) && (getbeehouse.def.defName == "VFEV_Apiary") )
+                    if ((getbeehouse != null) && (getbeehouse.def.defName == "VFEM2_Apiary") )
                     {
                         beehouseNearby = true;
                     }
