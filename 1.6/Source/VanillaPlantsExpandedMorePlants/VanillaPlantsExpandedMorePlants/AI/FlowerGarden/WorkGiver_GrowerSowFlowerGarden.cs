@@ -57,10 +57,11 @@ namespace VanillaPlantsExpandedMorePlants
 			{
 				return null;
 			}
-			if (!PlantUtility.GrowthSeasonNow(c, map, wantedPlantDef))
-			{
-				return null;
-			}
+            if (c.GetVacuum(pawn.Map) >= 0.5f)
+            {
+                return null;
+            }
+            
 			if (WorkGiver_GrowerFlowerGarden.wantedPlantDef == null)
 			{
                 WorkGiver_GrowerFlowerGarden.wantedPlantDef = WorkGiver_GrowerFlowerGarden.CalculateWantedPlantDef(c, map);
@@ -69,7 +70,11 @@ namespace VanillaPlantsExpandedMorePlants
 					return null;
 				}
 			}
-			List<Thing> thingList = c.GetThingList(map);
+            if (!PlantUtility.GrowthSeasonNow(c, map, wantedPlantDef))
+            {
+                return null;
+            }
+            List<Thing> thingList = c.GetThingList(map);
             Zone_GrowingFlowerGarden zone_Growing = c.GetZone(map) as Zone_GrowingFlowerGarden;
 			bool flag = false;
 			for (int i = 0; i < thingList.Count; i++)
