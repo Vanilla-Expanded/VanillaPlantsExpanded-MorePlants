@@ -144,6 +144,7 @@ namespace VanillaPlantsExpandedMorePlants
         [DebuggerHidden]
         public override IEnumerable<Gizmo> GetGizmos()
         {
+            yield return new Command_Hide_ZoneGrow(this);
             foreach (Gizmo g in base.GetGizmos())
             {
                 yield return g;
