@@ -42,10 +42,15 @@ namespace VanillaPlantsExpandedMorePlants
 				}
 				c = zone_Growing.Cells[0];
 			}
-			else
+			else if(settable is Thing thing)
 			{
-				c = ((Thing)settable).Position;
+				c = thing.Position;
 			}
+   			else
+	  		{
+	  				return false;
+	   		}
+
 			WorkGiver_GrowerAquatic.wantedPlantDef = WorkGiver_GrowerAquatic.CalculateWantedPlantDef(c, pawn.Map);
 			return WorkGiver_GrowerAquatic.wantedPlantDef != null;
 		}
