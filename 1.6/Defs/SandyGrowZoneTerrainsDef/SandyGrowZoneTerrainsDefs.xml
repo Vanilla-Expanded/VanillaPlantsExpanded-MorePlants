@@ -9,7 +9,11 @@
 		 <li>AB_FineSand</li>
 		 <li>GU_AlienSandFine</li>
 		 <li>AB_GrassySand</li>
-		
+		 <li MayRequire="VanillaExpanded.VExplorationE">VEE_AnimaSand</li>
+		 <li MayRequire="VanillaExpanded.VExplorationE">VEE_RedSand</li>
+		 <li MayRequire="VanillaExpanded.VExplorationE">VEE_VolcanicSand</li>
+		 <li MayRequire="VanillaExpanded.VExplorationE">VEE_LittoralDuneSand</li>
+		 <li MayRequire="VanillaExpanded.VExplorationE">VEE_TropicalBeachSand</li>
       </allowedTerrains>      
    </VanillaPlantsExpandedMorePlants.SandyGrowZoneTerrainsDef>
  

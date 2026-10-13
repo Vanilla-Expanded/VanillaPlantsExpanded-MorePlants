@@ -11,6 +11,7 @@
 			<Beauty>10</Beauty>
 			<BeautyOutdoors>10</BeautyOutdoors>
 		</statBases>
+		<altitudeLayer>Item</altitudeLayer>
 		<graphicData>
 			<texPath>Things/Plant/Crops/VCE_Canola</texPath>
 			<graphicClass>Graphic_Random</graphicClass>

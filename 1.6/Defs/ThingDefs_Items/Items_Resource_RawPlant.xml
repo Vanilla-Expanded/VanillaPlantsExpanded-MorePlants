@@ -504,7 +504,7 @@
 	<ThingDef ParentName="PlantFoodRawBase">
 		<defName>VCE_RawWaterChestnut</defName>
 		<label>water chestnuts</label>
-		<description>Small, rounded corms with a crisp, white flesh that may be eaten raw, slightly boiled, or grilled.</description>
+		<description>Small, rounded corms with a crisp, white flesh that may be eaten slightly boiled, or grilled.</description>
 		<graphicData>
 			<texPath>Things/Items/Raw/VCE_WaterChestnuts</texPath>
 		</graphicData>
@@ -534,6 +534,7 @@
 		<ingestible>
 			<foodType>VegetableOrFruit</foodType>
 			<preferability>RawTasty</preferability>
+			<tasteThought></tasteThought>
 		</ingestible>
 		<comps>
 			<li Class="CompProperties_Rottable">

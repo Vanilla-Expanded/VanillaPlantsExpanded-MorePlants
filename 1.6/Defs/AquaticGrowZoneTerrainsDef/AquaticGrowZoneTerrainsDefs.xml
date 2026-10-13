@@ -10,6 +10,10 @@
 		 <li>Marsh</li>
 		 <li>AB_LiquidSlime</li>
 		 <li>GU_RedWaterShallow</li>
+		 <li MayRequire="VanillaExpanded.VExplorationE">VEE_SwampyWaterMovingShallow</li>
+		 <li MayRequire="VanillaExpanded.VExplorationE">VEE_StagnantRiverWater</li>
+		 <li MayRequire="VanillaExpanded.VExplorationE">VEE_AnimaWaterShallow</li>
+		 <li MayRequire="VanillaExpanded.VExplorationE">VEE_AnimaWaterMovingShallow</li>
       </allowedTerrains>      
    </VanillaPlantsExpandedMorePlants.AquaticGrowZoneTerrainsDef>
  
